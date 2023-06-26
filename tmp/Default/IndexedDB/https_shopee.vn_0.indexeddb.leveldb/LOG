@@ -1,0 +1,25 @@
+2023/06/26-17:25:57.312 47f4 Reusing MANIFEST E:\xampp\htdocs\puperteerCrawl\tmp\Default\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/26-17:25:57.312 47f4 Recovering log #12
+2023/06/26-17:25:57.313 47f4 Reusing old log E:\xampp\htdocs\puperteerCrawl\tmp\Default\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000012.log 
+2023/06/26-17:25:57.313 47f4 Delete type=2 #11
+2023/06/26-17:25:57.420 71d4 Level-0 table #17: started
+2023/06/26-17:25:57.433 71d4 Level-0 table #17: 22423 bytes OK
+2023/06/26-17:25:57.454 71d4 Delete type=0 #12
+2023/06/26-17:25:57.454 47f4 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 814 : 1
+2023/06/26-17:25:57.455 47f4 Compacting 1@0 + 1@1 files
+2023/06/26-17:25:57.475 47f4 Generated table #18@0: 238 keys, 3874 bytes
+2023/06/26-17:25:57.475 47f4 Compacted 1@0 + 1@1 files => 3874 bytes
+2023/06/26-17:25:57.488 47f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/26-17:25:57.488 47f4 Delete type=2 #17
+2023/06/26-17:25:57.488 47f4 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 814 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/26-17:26:00.045 71d4 Level-0 table #20: started
+2023/06/26-17:26:00.110 71d4 Level-0 table #20: 5153 bytes OK
+2023/06/26-17:26:00.121 71d4 Delete type=2 #14
+2023/06/26-17:26:00.121 71d4 Delete type=0 #16
+2023/06/26-17:26:00.121 71d4 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 890 : 1
+2023/06/26-17:26:00.121 71d4 Compacting 1@0 + 1@1 files
+2023/06/26-17:26:00.134 71d4 Generated table #21@0: 243 keys, 6010 bytes
+2023/06/26-17:26:00.134 71d4 Compacted 1@0 + 1@1 files => 6010 bytes
+2023/06/26-17:26:00.155 71d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/26-17:26:00.155 71d4 Delete type=2 #20
+2023/06/26-17:26:00.155 71d4 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 890 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

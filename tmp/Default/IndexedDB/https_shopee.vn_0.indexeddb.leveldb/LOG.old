@@ -1,0 +1,24 @@
+2023/06/26-17:25:11.830 1150 Reusing MANIFEST E:\xampp\htdocs\puperteerCrawl\tmp\Default\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/26-17:25:11.830 1150 Recovering log #6
+2023/06/26-17:25:11.830 1150 Reusing old log E:\xampp\htdocs\puperteerCrawl\tmp\Default\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000006.log 
+2023/06/26-17:25:12.047 60bc Level-0 table #10: started
+2023/06/26-17:25:12.063 60bc Level-0 table #10: 9571 bytes OK
+2023/06/26-17:25:12.085 60bc Delete type=0 #6
+2023/06/26-17:25:12.085 1150 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 439 : 1
+2023/06/26-17:25:12.085 1150 Compacting 1@0 + 1@1 files
+2023/06/26-17:25:12.097 1150 Generated table #11@0: 193 keys, 5041 bytes
+2023/06/26-17:25:12.097 1150 Compacted 1@0 + 1@1 files => 5041 bytes
+2023/06/26-17:25:12.118 1150 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/26-17:25:12.119 1150 Delete type=2 #10
+2023/06/26-17:25:12.119 1150 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 439 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/26-17:25:14.568 60bc Level-0 table #13: started
+2023/06/26-17:25:14.580 60bc Level-0 table #13: 10588 bytes OK
+2023/06/26-17:25:14.602 60bc Delete type=2 #7
+2023/06/26-17:25:14.602 60bc Delete type=0 #9
+2023/06/26-17:25:14.602 1150 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 598 : 1
+2023/06/26-17:25:14.602 1150 Compacting 1@0 + 1@1 files
+2023/06/26-17:25:14.615 1150 Generated table #14@0: 222 keys, 5763 bytes
+2023/06/26-17:25:14.615 1150 Compacted 1@0 + 1@1 files => 5763 bytes
+2023/06/26-17:25:14.636 1150 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/26-17:25:14.636 1150 Delete type=2 #13
+2023/06/26-17:25:14.636 1150 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 598 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
