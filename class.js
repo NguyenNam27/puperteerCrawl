@@ -6,7 +6,10 @@ import puppeteer from 'puppeteer';
     });
     const page = await browser.newPage();
 
-    await page.goto('https://www.nguyenkim.com/tim-kiem.html?tu-khoa=hawonkoo&trang=3')
+    await page.goto('https://www.nguyenkim.com/tim-kiem.html?tu-khoa=hawonkoo&trang=3',{
+        waitUntil:"load"
+    });
+    const is_disabled = await page.$('li.page-item.active > a') !==null;
 
-
+    console.log(is_disabled)
 })();
